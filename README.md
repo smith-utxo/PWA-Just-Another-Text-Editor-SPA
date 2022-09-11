@@ -11,7 +11,7 @@ This application uses IndexedDB database.
 https://github.com/smith-utxo/PWA-Just-Another-Text-Editor-SPA
 
 ## Heroku Deployed URL: 
-
+https://gentle-coast-88490.herokuapp.com/
 
 ## Legal Notice
  © Adam T. Smith, U of M Coding Boot Camp 
